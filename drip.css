@@ -1,0 +1,54 @@
+.letrerio{
+    position: absolute;
+    top:8%;
+    left:35%;
+    width: 200px;
+    height: 60px;
+    background-color: red;
+}
+.comandos{
+    position: absolute;
+    top:23%;
+    left:48%;
+
+}
+.grupoA{
+    position: relative;
+    top: 200px;
+    left:10%;
+    width: 141px;
+    height: 141px;
+    background-color: blue;
+}
+.grupoB{
+    position: relative;
+    top: 39px;
+    left:70%;
+    width: 141px;
+    height: 141px;
+    background-color: #f5f5dc;
+}
+.grupoC{
+    position: relative;
+    top: 169px;
+    left:10%;
+    width: 141px;
+    height: 141px;
+    background-color: green;
+}
+.grupoD{
+    position: relative;
+    top:10px;
+    left:70%;
+    width: 141px;
+    height: 141px;
+    background-color: rgba(0, 0, 0, 0.870);
+}
+
+
+
+
+
+
+
+
